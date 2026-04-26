@@ -68,7 +68,8 @@
     "ext": "js,mjs,json",
     "ignore": [
       "data/*"
-    ]
+    ],
+    "delay": 500
   },
   "engines": {
     "node": ">=14",
