@@ -69,7 +69,7 @@
     "ignore": [
       "data/*"
     ],
-    "delay": 1000
+    "delay": 500
   },
   "engines": {
     "node": ">=14",
